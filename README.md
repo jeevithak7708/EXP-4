@@ -44,10 +44,14 @@ WAVEFORM:
 
 
 TABULAR COLUMN
+
+
 |INPUT VOLTAGE|OUTPUT VOLTAGE               |      
 |             |-----------------------------|
 |             |WITHOUT FILTER  | WITH FILTER|
 |-------------|----------------|------------|
+
+
 Rectifier without filter
 
 TABULAR COLUMN
