@@ -83,6 +83,7 @@ TABULAR COLUMN:
 </html>
 
 Full wave rectifier:
+
 <img width="1554" height="859" alt="Screenshot 2025-12-11 141423" src="https://github.com/user-attachments/assets/3ca5cef9-b902-4ef3-8851-2bf724fcc2e9" />
 
 
@@ -117,7 +118,7 @@ TABULAR COLUMN:
         <td>50</td>
         <td>5</td>
         <td>50V, 46V</td>
-        <td>5 ms, 25 ms</td>
+        <td>5 ms, 14 ms</td>
       </tr>
      
    </table>
