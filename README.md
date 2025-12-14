@@ -53,8 +53,8 @@ TABULAR COLUMN:
   <body>
     <table>
       <tr>
-        <th colspan="2">INPUT VOLTAGE</th>
-        <th rowspan="2">OUTPUT VOLTAGE</th>
+        <th rowspan="2">INPUT VOLTAGE</th>
+        <th colspan="2">OUTPUT VOLTAGE</th>
       </tr>
       <tr>
         <th>WITHOUT FILTER</th>
