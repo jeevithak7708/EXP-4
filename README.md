@@ -51,8 +51,8 @@ WAVEFORM:
 TABULAR COLUMN:
 <html>
   <body>
-    <table>
-      <tr>
+   <table>
+     <tr>
         <th rowspan="2">INPUT VOLTAGE</th>
         <th colspan="2">OUTPUT VOLTAGE</th>
       </tr>
@@ -60,24 +60,8 @@ TABULAR COLUMN:
         <th>WITHOUT FILTER</th>
         <th>WITH FILTER</th>
       </tr>
-     
-      
-    </table>
+   </table>
   </body>
 </html>
 
 
-Full wave rectifier:
-<img width="1554" height="859" alt="Screenshot 2025-12-11 141423" src="https://github.com/user-attachments/assets/3ca5cef9-b902-4ef3-8851-2bf724fcc2e9" />
-
-
-WAVEFORM:
-
-<img width="754" height="398" alt="Screenshot 2025-12-11 141339" src="https://github.com/user-attachments/assets/931e27e6-376e-433e-b604-bd52f01177a2" />
-
-TABULAR COLUMN:
-
-
-RESULT:
-
-Input and Output waveforms of a half and full bridge-wave with /without filter are observed and plotted.
