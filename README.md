@@ -68,9 +68,32 @@ TABULAR COLUMN:
         <th>Vm(V)</th>
         <th>t(ms)</th>
       </tr>
+      <tr>
+        <td>100</td>
+        <td>20</td>
+        <td>100</td>
+        <td>10</td>
+        <td>100V, 5V</td>
+        <td>5 ms, 25 ms</td>
+      </tr>
      
    </table>
   </body>
 </html>
+Full wave rectifier:
+<img width="1554" height="859" alt="Screenshot 2025-12-11 141423" src="https://github.com/user-attachments/assets/3ca5cef9-b902-4ef3-8851-2bf724fcc2e9" />
+
+
+WAVEFORM:
+
+<img width="754" height="398" alt="Screenshot 2025-12-11 141339" src="https://github.com/user-attachments/assets/931e27e6-376e-433e-b604-bd52f01177a2" />
+
+TABULAR COLUMN:
+
+
+RESULT:
+
+Input and Output waveforms of a half and full bridge-wave with /without filter are observed and plotted.
+
 
 
