@@ -49,20 +49,28 @@ WAVEFORM:
 
 
 TABULAR COLUMN:
+<html>
+  <body>
+    <table>
+      <tr>
+        <th colspan="2">INPUT VOLTAGE</th>
+        <th colspan="2">OUTPUT VOLTAGE<br>WITHOUT FILTER</th>
+        <th colspan="2">OUTPUT VOLTAGE<br>WITH FILTER</th>
+      </tr>
+    </table>
+  </body>
+</html>
 
 
-|INPUT VOLTAGE |OUTPUT VOLTAGE            |
-|              |--------------------------|
-|              |WITHOUT FILTER|WITH FILTER|
-|--------------|--------------|-----------|
+Full wave rectifier:
+<img width="1554" height="859" alt="Screenshot 2025-12-11 141423" src="https://github.com/user-attachments/assets/3ca5cef9-b902-4ef3-8851-2bf724fcc2e9" />
 
-
-Rectifier without filter
-
-TABULAR COLUMN
-Rectifier with filter
 
 WAVEFORM:
+
+<img width="754" height="398" alt="Screenshot 2025-12-11 141339" src="https://github.com/user-attachments/assets/931e27e6-376e-433e-b604-bd52f01177a2" />
+
+TABULAR COLUMN:
 
 
 RESULT:
