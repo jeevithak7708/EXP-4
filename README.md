@@ -49,26 +49,10 @@ WAVEFORM:
 
 
 TABULAR COLUMN
-## Tabular Column
-
-| *Input Voltage*   |        | *Output Voltage (Without Filter)*    |        | *Output Voltage (With Filter)*    |        |
-|-------------------|--------|--------------------------------------|--------|-----------------------------------|--------|
-| Vm (V)            | t (ms) | Vm (V)                               | t (ms) | Vm (V)                            | t (ms) |
-| 50                | 20     | 50                                   | 5      | 50, 46                            | 5, 14  |
-
----
-
-## Result
-Input and output waveforms of a half-wave and full-wave rectifier, with and without filter,  
-were observed and plotted.
-
-
-| Input Voltage |        | Output Voltage (Without Filter) |        | Output Voltage (With Filter)   |             |    
-|---------------|--------|----------------------------------|--------|-------------------------------|-------------|
-| Vm (V)        | t (ms) | Vm (V)                           | t (ms) | Vm (V)                        | t (ms)      |
-| 50            | 20     | 50                               | 5      | 50, 46                        | 5 ms, 14 ms |
-
-
+|INPUT VOLTAGE |OUTPUT VOLTAGE            |
+|              |--------------------------|
+|              |WITHOUT FILTER|WITH FILTER|
+|--------------|--------------|-----------|
 Rectifier without filter
 
 TABULAR COLUMN
