@@ -60,6 +60,15 @@ TABULAR COLUMN:
         <th>WITHOUT FILTER</th>
         <th>WITH FILTER</th>
       </tr>
+      <tr>
+        <th>Vm(V)</th>
+        <th>t(ms)</th>
+        <th>Vm(V)</th>
+        <th>t(ms)</th>
+        <th>Vm(V)</th>
+        <th>t(ms)</th>
+      </tr>
+     
    </table>
   </body>
 </html>
