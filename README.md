@@ -53,7 +53,7 @@ TABULAR COLUMN:
   <body>
    <table>
      <tr>
-        <th rowspan="2" colspan="2">INPUT VOLTAGE</th>
+        <th rowspan="2", colspan="2">INPUT VOLTAGE</th>
         <th colspan="2">OUTPUT VOLTAGE</th>
       </tr>
       <tr>
