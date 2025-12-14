@@ -49,6 +49,7 @@ WAVEFORM:
 
 
 TABULAR COLUMN:
+
 <html>
   <body>
    <table>
@@ -80,6 +81,7 @@ TABULAR COLUMN:
    </table>
   </body>
 </html>
+
 Full wave rectifier:
 <img width="1554" height="859" alt="Screenshot 2025-12-11 141423" src="https://github.com/user-attachments/assets/3ca5cef9-b902-4ef3-8851-2bf724fcc2e9" />
 
@@ -89,6 +91,38 @@ WAVEFORM:
 <img width="754" height="398" alt="Screenshot 2025-12-11 141339" src="https://github.com/user-attachments/assets/931e27e6-376e-433e-b604-bd52f01177a2" />
 
 TABULAR COLUMN:
+
+<html>
+  <body>
+   <table>
+     <tr>
+        <th rowspan="2", colspan="2">INPUT VOLTAGE</th>
+        <th colspan="4">OUTPUT VOLTAGE</th>
+      </tr>
+      <tr>
+        <th colspan="2">WITHOUT FILTER</th>
+        <th colspan="2">WITH FILTER</th>
+      </tr>
+      <tr>
+        <th>Vm(V)</th>
+        <th>t(ms)</th>
+        <th>Vm(V)</th>
+        <th>t(ms)</th>
+        <th>Vm(V)</th>
+        <th>t(ms)</th>
+      </tr>
+      <tr>
+        <td>50</td>
+        <td>20</td>
+        <td>50</td>
+        <td>5</td>
+        <td>50V, 46V</td>
+        <td>5 ms, 25 ms</td>
+      </tr>
+     
+   </table>
+  </body>
+</html>
 
 
 RESULT:
